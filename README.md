@@ -189,4 +189,4 @@ This project demonstrates:
 **Subramani U**  
 B.Tech Artificial Intelligence & Data Science
 
-This project was created as a beginner-friendly DBMS mini project for learning and portfolio development.
+This project was created as a beginner-friendly DBMS mini project.
